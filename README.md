@@ -11,7 +11,7 @@ O repositório contém exemplos de funções simples em Elixir que podem ser usa
 - Elixir 1.14.3
 
 ## Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE.md para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE.ms para mais detalhes.
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue. Certifique-se de seguir as diretrizes de contribuição do projeto.
